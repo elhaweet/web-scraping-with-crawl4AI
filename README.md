@@ -1,27 +1,12 @@
 # AI Web Scraper Using Crawl4AI  
 
-### **[Learn How to Easily Scrape and Build Lead Lists with Crawl4AI!](https://dev.to/kaymen99/scrape-any-website-fast-and-cheap-with-crawl4ai-3fj1)**  
-
-This project is an AI-driven web scraper powered by [**Crawl4AI**](https://docs.crawl4ai.com/), designed to automate **lead generation** by extracting business details such as names, addresses, and phone numbers from platforms like [**YellowPages**](https://www.yellowpages.ca/). Leveraging advanced LLMs such as GPT-4o, Claude, and DeepSeek, it processes and organizes data efficiently, saving it in **CSV files** for easy access and further analysis.  
-
-## Key Features  
-
-- **Business Data Extraction** – Scrape business names, contact details, and other relevant information.  
-- **AI-Powered Data Processing** – Utilize LLMs to clean, structure, and enhance extracted data.  
-- **Customizable Scraper** – Modify it to work with different websites and data types.  
-- **Flexible LLM Integration** – Supports AI models like GPT-4, Claude, and DeepSeek.  
-
-## Adaptability  
-
-Although designed for **YellowPages**, this scraper can be customized for **any website**. Users can modify the target URL, adjust AI processing rules, and specify new data fields as needed.  
-
 ## Use Cases  
-
+- **AI Data Enrichment** – Enhance and categorize scraped data using LLMs for better insights.  
+- **Research & Analysis** – Extract structured data for business or academic studies.  
 - **Lead Generation** – Collect business emails, phone numbers, and addresses for outreach.  
 - **Market Research** – Gather industry data to analyze trends and customer behavior.  
 - **Competitor Analysis** – Track pricing, services, and reviews to maintain a competitive edge.  
-- **AI Data Enrichment** – Enhance and categorize scraped data using LLMs for better insights.  
-- **Research & Analysis** – Extract structured data for business or academic studies.  
+
 
 ## Project Structure  
 
@@ -98,11 +83,13 @@ Modify the `config.py` file to customize the scraper's behavior:
 - **MAX_PAGES**: Number of pages to scrape (default: `3`).  
 - **SCRAPER_INSTRUCTIONS**: Custom LLM prompt defining the data extraction rules.  
 
-## Contributing  
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.  
 
-## Contact  
+## Key Features  
 
-For questions or suggestions, reach out to me at `amrelhaweet10@gmail.com`.  
+- **Business Data Extraction** – Scrape business names, contact details, and other relevant information.  
+- **AI-Powered Data Processing** – Utilize LLMs to clean, structure, and enhance extracted data.  
+- **Customizable Scraper** – Modify it to work with different websites and data types.  
+- **Flexible LLM Integration** – Supports AI models like GPT-4, Claude, and DeepSeek.  
+ 
 
